@@ -1,3 +1,7 @@
 .DS_Store
 elliptic_bitcoin_dataset/*
 venv/*
+src/.ipynb_checkpoints
+src/embeddings_gcn.csv
+src/mapping_dataset.ipynb
+data/*
