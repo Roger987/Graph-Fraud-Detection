@@ -4,4 +4,5 @@ venv/*
 src/.ipynb_checkpoints
 src/embeddings_gcn.csv
 src/mapping_dataset.ipynb
+augmented_elliptic_bitcoin_dataset/*
 data/*
